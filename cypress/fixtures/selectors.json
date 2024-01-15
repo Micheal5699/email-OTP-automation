@@ -1,0 +1,15 @@
+{
+  "createAccBtn": "[class='sc-imWYAI dLIPIJ'",
+  "fullNameFld": "#fullname",
+  "businessFld": "#businessname",
+  "businessEmailFld": "#businessemail",
+  "phoneNumberFld": "#businessphonenumber",
+  "registNubFld": "#businessRegNum",
+  "nextBtn": "[class='sc-imWYAI fDRXF'",
+  "websiteFld": "#website",
+  "chooseSource": "[class='sc-cwHptR hnPlEA'",
+  "selectIG": ".sc-jEACwC > :nth-child(3)",
+  "passwordFld": "#password",
+  "signupBtn": "[class='sc-imWYAI fDRXF'",
+  "otpField": "input"
+}
